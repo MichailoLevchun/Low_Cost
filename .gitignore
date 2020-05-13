@@ -1,0 +1,12 @@
+/.idea/
+/.gradle/
+/build/
+/reports/
+/target/
+/test-output/
+/out
+compass_functional.iml
+logger.*
+out/*
+reportportal.properties
+/lombok.config
